@@ -23,7 +23,7 @@ public class Exercise4_3 {
     }
 }
 
-Çıktı:
+Program Çıktısı:
 No, I wug.
 You wugga wug.
 I wug.
